@@ -2,6 +2,7 @@
 Contains files for the final project for Mgmt. Access of Big and Complex Data
 
 Project title: Time series analysis of UFO sightings
+Note: web application in this project is deployed and live on GCP, to view click this link (http://34.125.118.242:8081/)
 
 Introduction
 Unidentified Flying Object (UFO) as a topic has gained traction in recent years, and has been an intriguing “spooky” topic for years that it became part of our culture with many Hollywood movies and series about UFOs, although it is part of our culture, the subject of UFOs has been stigmatized in science communities and scientists have approached this subject with caution in fear for their careers (Dirk Schulz-Makuch) and of being called pseudo scientists or being described as tin foil hat conspiracy theorists.
