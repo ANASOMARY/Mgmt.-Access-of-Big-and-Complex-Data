@@ -5,9 +5,11 @@ Project title: Time series analysis of UFO sightings
 Note: web application in this project is deployed and live on GCP, to view click this link (http://34.125.118.242:8081/)
 
 Introduction
+
 Unidentified Flying Object (UFO) as a topic has gained traction in recent years, and has been an intriguing “spooky” topic for years that it became part of our culture with many Hollywood movies and series about UFOs, although it is part of our culture, the subject of UFOs has been stigmatized in science communities and scientists have approached this subject with caution in fear for their careers (Dirk Schulz-Makuch) and of being called pseudo scientists or being described as tin foil hat conspiracy theorists.
 
 Background
+
 with the recent pentagon release of classified videos showing unidentified objects (Denise Chow and Gadi Schwartz, 2021) doing aerial maneuvers that break our physical laws and challenge the realm of what we thought possible and after the US senate formed an official committee to investigate UFO phenomenon where scientists and analysts are involved, it also became easier to study and analyze UFOs phenomenon because the data needed to do so became available and it became acceptable for legitimate news outlets to report on incidents of UFO sightings. On the other hand, the subject of UFOs with all the mysteries surrounding it is very intriguing and exciting to study given that the study was purely scientific and based on data.
 For this project I will follow a scientific approach in analyzing UFO sightings data to try to draw subjective conclusions on whether UFOs are real or not and where those sightings happen, for the pure fun of it.
 
